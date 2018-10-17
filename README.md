@@ -1,5 +1,5 @@
 # Korean-Vehicle-License-Plate-Character-Dataset
-## KVLPC(Korean Vehicle License Plate Character Dataset)?
+## KVLPC(Korean Vehicle License Plate Character Dataset)
 
 한국의 자동차 번호판에 사용되는 문자들을 수집하여 분류해놓은 데이터셋 입니다.
 
